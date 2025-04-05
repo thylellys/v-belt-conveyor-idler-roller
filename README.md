@@ -6,7 +6,7 @@
   
   *Rolo livre para correia transportadora em V - Diâmetro 800mm*  
   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-  [![GitHub Issues](https://img.shields.io/github/issues/seu-usuario/v-belt-conveyor-idler-roller)](https://github.com/seu-usuario/v-belt-conveyor-idler-roller/issues)
+  [![GitHub Issues](https://img.shields.io/github/issues/thylellys/v-belt-conveyor-idler-roller)](https://github.com/thylellys/v-belt-conveyor-idler-roller/issues)
 
 </div>
 
@@ -60,7 +60,7 @@ ansys mechanical -b -i analysis_file.mechdb
    - Vida útil estimada: >50,000 horas
 
 ## 🤝 Como Contribuir
-1. Reporte problemas em [Issues](https://github.com/seu-usuario/v-belt-conveyor-idler-roller/issues)
+1. Reporte problemas em [Issues](https://github.com/thylellys/v-belt-conveyor-idler-roller/issues)
 2. Siga nosso [Guia de Contribuição](CONTRIBUTING.md)
 3. Use os templates:
    ```bash
