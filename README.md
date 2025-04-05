@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Modelo 3D Interativo](cad/V-Shape Roller 800 mm - Base Free Roller 800 mm-1.STL)
+  ![Modelo 3D Interativo](/cad/V-Shape Roller 800 mm - Base Free Roller 800 mm-1.STL)
   
   *Rolo livre para correia transportadora em V - Diâmetro 800mm*  
   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
