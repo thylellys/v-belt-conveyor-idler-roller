@@ -1,5 +1,3 @@
-# v-belt-conveyor-idler-roller
-
 # 🏭 V-Belt Conveyor Idler Roller - 800mm
 
 <div align="center">
